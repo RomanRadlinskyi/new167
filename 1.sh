@@ -1,5 +1,6 @@
 #!/bin/bash
 
-echo "Hi, new"
+echo "Hi, new33"
 
+echo "Hi, DevOps"
 
